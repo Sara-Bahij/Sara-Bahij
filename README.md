@@ -14,16 +14,14 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
-
 ## Download My CV
 
-[![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)]([https://github.com/Yacine-Hamdi/Yacine-hamdi/blob/main/CV_Yacine_Hamdi.pdf](https://github.com/Sara-Bahij/Sara-Bahij/blob/main/CV%20Mouhcine%20EL-Hilali%20Consultant%20BI_2025.pdf))
-[Click here to download my CV]([https://github.com/cocoritzy/cocoritzy/blob/main/CV.pdf](https://github.com/Sara-Bahij/Sara-Bahij/blob/main/CV%20Mouhcine%20EL-Hilali%20Consultant%20BI_2025.pdf))
+[![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)](https://github.com/Yacine-Hamdi/Yacine-hamdi/blob/main/CV_Yacine_Hamdi.pdf)
+[Click here to download my CV](https://github.com/cocoritzy/cocoritzy/blob/main/CV.pdf)
 
 <img width="1386" alt="Capture d'écran 2024-11-08 à 16 53 40" src="https://github.com/user-attachments/assets/d91d82f9-8bb1-44a8-ab93-dbe43959c731" />
 
 <h2>:male-technologist: Data Analysis Development Projects:</h2>
-
 
 
 - <b>Final study cas with databird</b>
